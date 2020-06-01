@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Library Management</string>
+    <string name="large_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</string>
+    <string name="library_managment">Library Management</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="re_password">Re Password</string>
+    <string name="register_done">Register Done</string>
+    <string name="password_didnt_match">Passwords didn\'t matched</string>
+    <string name="fill_all">Please fill all  fields</string>
+    <string name="you_don_t_have_any_borrowed_books">You don\'t have any borrowed Books</string>
+    <string name="user_exist">\"This username already exist\"</string>
+    <string name="you_can_borrow_only_tow">You can borrow only tow books</string>
+    <string name="wrong_username_passwprd">Wrong username or password</string>
+    <string name="logedout">Loged Out</string>
+    <string name="logout">Log Out</string>
+    <string name="user">User</string>
+    <string name="in_stuck">in Stock</string>
+    <string name="borrow">Borrow</string>
+    <string name="return_book">Return</string>
+    <string name="books_list">Books List</string>
+</resources>
